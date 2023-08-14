@@ -3,3 +3,6 @@ If folder has "regular_version" in it's title, that means that textures in that 
 
 
 If folder has "extended_version" in it's title, that means that translated texture is not 1-to-1 as source. If source might be 100x100px, translated might be bigger. They usually better in terms of meaning and quality, but since texture is bigger, it might rquire some code rewriting.
+
+# Помилки у перекладі? Є пропозиції?
+Відкрийте новий issue на цій сторінці гітхаб.
