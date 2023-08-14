@@ -1,3 +1,1 @@
-# Ponyvania-ukr
-WIP
-Ukrainian translation for Ponyvania
+# Ponyvania Ukrainian translation - Поніванія Український переклад
