@@ -1,3 +1,6 @@
+https://gamejolt.com/games/Ponyvania/232954
+
+https://github.com/Vovkiv/Ponyvania-ukr
 # Ponyvania - Ukrainian translation | Поніванія - Український переклад
 
 # FAQ
