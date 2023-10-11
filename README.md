@@ -50,6 +50,8 @@ Game version for which current translation version was designed: 2.020
   
      3. Все
 6. Як вручну замінити текстури? Тут вже я вам особливо не допоможу. У цій грі текстури намертво зашиті в гру, тому для їх ручної інтеграції доведеться длубатися в data.win за допомогою інструментів типу https://github.com/krzys-h/UndertaleModTool. Далі вже самі.
+7. languageEnglish.ini тут потрібен лише як референс для мене, перекладача. Вам він не потрібен.
+8. Якщо вам, з якихось причин, потрібна стара версія перекладу, то вам доведеться длубатися у історії файла самостійно і шукати потрібну версію: https://github.com/Vovkiv/Ponyvania-ukr/commits/main/languageUkrainian.ini; Я не маю бажання цим займатися власноруч.
 
 # Changelog | Список змін
 1. Translation: v1.0.0.0; Game version: v2.020; Date (DD.MM.YYYY): 01.01.2024;
