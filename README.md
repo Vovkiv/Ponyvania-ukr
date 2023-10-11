@@ -11,6 +11,7 @@ https://github.com/Vovkiv/Ponyvania-ukr
 # Current version | Поточна версія
 
 Translation version: v1.0.0.0
+
 Game version for which current translation version was designed: 2.020
 
 # FAQ | ЧаПи
