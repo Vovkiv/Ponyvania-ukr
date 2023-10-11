@@ -17,4 +17,6 @@ https://github.com/Vovkiv/Ponyvania-ukr
 2. Помилки у перекладі? Є пропозиції?
     Повідомити про помилки або зробити пропозицію перекладу можна зробити наступними способами:
    
-   *
+   * Зробити новий issue: https://github.com/Vovkiv/Ponyvania-ukr/issues/new
+   * Через мій matrix: https://matrix.to/#/@vovkiv:matrix.org
+   * Через пошту електронну: volkovissocool@gmail.com
