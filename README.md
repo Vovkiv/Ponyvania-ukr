@@ -1,7 +1,20 @@
-https://gamejolt.com/games/Ponyvania/232954
+
 
 https://github.com/Vovkiv/Ponyvania-ukr
 # Ponyvania - Ukrainian translation | Поніванія - Український переклад
+
+# Game download page | Сторінка для завантаження гри
+
+https://gamejolt.com/games/Ponyvania/232954
+
+# Translation repo | Репозиторій перекладу
+
+https://gamejolt.com/games/Ponyvania/232954
+
+# Current version | Поточна версія
+
+Translation version: v1.0.0.0
+Game version for which current translation version was designed: 2.020
 
 # FAQ | ЧаПи
 1. Яким чином перекладаються власні назви? Чому "Ліс Еверфрі", а не, наприклад, "Вічнозелений ліс".
@@ -32,5 +45,5 @@ https://github.com/Vovkiv/Ponyvania-ukr
 5. Як вручну замінити текстури? Тут вже я вам особливо не допоможу. У цій грі текстури намертво зашиті в гру, тому для їх ручної інтеграції доведеться длубатися в data.win за допомогою інструментів типу https://github.com/krzys-h/UndertaleModTool. Далі вже самі.
 
 # Changelog | Список змін
-1. v1.0.0.0 - 1 січня, 2024 рік
+1. Translation: v1.0.0.0; Game version: v2.020; Date (DD.MM.YYYY): 01.01.2024;
      * Реліз.
