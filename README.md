@@ -1,20 +1,20 @@
-# Ponyvania - Ukrainian translation | Поніванія - Український переклад
+Ponyvania - Ukrainian translation | Поніванія - Український переклад
 
-# Game download page | Сторінка для завантаження гри
+## Game download page | Сторінка для завантаження гри
 
 https://gamejolt.com/games/Ponyvania/232954
 
-# Translation repo | Репозиторій перекладу
+## Translation repo | Репозиторій перекладу
 
 https://github.com/Vovkiv/Ponyvania-ukr
 
-# Current version | Поточна версія
+## Current version | Поточна версія
 
 Translation version: v1.0.0.0
 
 Game version for which current translation version was designed: v2.020
 
-# FAQ | ЧаПи
+## FAQ | ЧаПи
 
 1. Скоріше за все, у вас гра буде за замовчування на англійській мові. Щоб її змінити:
      1. Запустіть гру
