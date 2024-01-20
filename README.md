@@ -6,9 +6,9 @@ Ponyvania - Ukrainian translation | Поніванія - Український 
 
 ### Current version | Поточна версія
 
-Translation version: v1.0.0.0
+Translation version: **v1.0.0.0**
 
-Game version for which current translation version was designed: v2.020
+Game version for which current translation version was designed: **v2.020**
 
 ### FAQ | ЧаПи
 
@@ -33,7 +33,7 @@ Game version for which current translation version was designed: v2.020
    
    * Зробити новий [issue](https://github.com/Vovkiv/Ponyvania-ukr/issues/new).
    * Через мій [matrix](https://matrix.to/#/@vovkiv:matrix.org).
-   * Через електронну пошту: volkovissocool@gmail.com;
+   * Через електронну [пошту volkovissocool@gmail.com](mailto:volkovissocool@gmail.com?subject=Ponyvania)
 
 4. Цей переклад включає в себе деякі перекладені текстури, такі ось як лого гри чи назви рівнів/локацій. Чи потраплять вони у гру, вже залежить від самого розробника гри. Текстури і їх сурси можна знайти в теках цього репозиторія, наприклад, назви локацій можна знайти [тут](level_names).
 
