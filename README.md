@@ -1,5 +1,7 @@
 Ponyvania - Ukrainian translation | Поніванія - Український переклад
 
+![logo](game_logo/game_logo_ukr.png)
+
 ### [Game download page | Сторінка для завантаження гри](https://gamejolt.com/games/Ponyvania/232954)
 
 ### [Translation repo | Репозиторій перекладу](https://github.com/Vovkiv/Ponyvania-ukr)
